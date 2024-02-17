@@ -14,7 +14,7 @@ Events:
 
 - **Transfer:** `event Transfer(address indexed from, address indexed to, uint value)`
 - **Approval:** `event Approval(address indexed owner, address indexed spender, uint value)`
-- **Token Contract Address**`0x17aB05351fC94a1a67Bf3f56DdbB941aE6c63E25`
+- **Token Contract Address**`0x5DB9A7629912EBF95876228C24A848de0bfB43A9`
 ---
 
 ## Vault Contract
@@ -31,7 +31,7 @@ External State Variables:
 - **token:** `IERC20 public immutable token`
 - **totalSupply:** `uint public totalSupply`
 - **balanceOf:** `mapping(address => uint) public balanceOf`
-- **Vault Contract Address**`0x5aa01B3b5877255cE50cc55e8986a7a5fe29C70e`
+- **Vault Contract Address**`0x4Ac1d98D9cEF99EC6546dEd4Bd550b0b287aaD6D`
 
 
 # Avalanche Subnet Setup for DeFi Empire
